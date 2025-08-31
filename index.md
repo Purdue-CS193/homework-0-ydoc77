@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Cody Sayo's first CS193 homework 
+Things I like about CS193 
+- taught by undergraduates who are pretty chill
+- Only meet once a week
+- They give advice for cs since they are also undergrads at the same time as well
+- The ta's are pretty funny 
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
